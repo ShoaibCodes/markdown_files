@@ -1,14 +1,7 @@
 
-```
-```
-
----
-
-
-**User:**
+**Mohammed Shoaib:**
 suggest me plan to learn aws. I have a 300 USD credit until December 2023.So generate a plan to utilize those 300 in an effective way. The plan should start from first week of September and end by last week of December. I want a weekly based plan with preset goals
 
----
 
 **ChatGPT:**
 Absolutely, I'd be happy to help you create a plan to learn AWS effectively and make the most of your $300 credit! Here's a weekly plan starting from the first week of September and ending by the last week of December:
